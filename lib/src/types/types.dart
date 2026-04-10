@@ -1,4 +1,5 @@
 export 'camera.dart';
+export '../cluster/clustering.dart';
 export 'ui.dart';
 export 'base_overlay.dart';
 export 'marker.dart';
